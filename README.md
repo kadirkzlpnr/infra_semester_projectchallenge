@@ -2,7 +2,7 @@
 Om gebruik te kunnen maken van deze tool, heb je een Netlab account nodig van Fontys op vSphere en de Cisco VPN. 
 
 # Libraries
-Je moet de volgende libraries zelf installeren d.m.v. pip install
+Je moet de volgende libraries zelf installeren d.m.v. pip install:
 
 - pip install requests
 - pip install pyVmomi
